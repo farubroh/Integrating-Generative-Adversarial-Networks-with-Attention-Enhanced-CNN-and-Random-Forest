@@ -1,1 +1,4 @@
-# Integrating-Generative-Adversarial-Networks-with-Attention-Enhanced-CNN-and-Random-Forest
+<p>
+  Achieved 91% accuracy in diagnosing skin lesions
+ using a hybrid model of GAN, CNN with attention, and Random Forest.
+</p>
